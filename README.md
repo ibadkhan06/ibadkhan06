@@ -1,7 +1,13 @@
 # 👋 Hey Everyone!  
 ## I'm **Ibad Ahmed Khan**  
-**🎓 Computer Science Student**  
-📍 **FAST University** | Class of '25  
+
+---
+
+<p align="center">
+  **🎓 Computer Science Student**  
+  📍 **FAST University** | Class of '25  
+</p>
+
 
  
 
