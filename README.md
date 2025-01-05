@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on projects related to **App/Web Development**.  
 - 📫 How to reach me: [iahmedkhan06@gmail.com](mailto:iahmedkhan06@gmail.com)  
 - 📄 Know about my experiences: [My Resume](#) (Attach your resume link here).  
-- 🌐 Connect with me: [LinkedIn](https://linkedin.com/in/ibad-khan)  
+- 🌐Connect with me on [LinkedIn](https://linkedin.com/in/ibad-khan-51442993)    
 
 ---
 
