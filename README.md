@@ -1,15 +1,11 @@
 # 👋 Hey Everyone!  
 ## I'm **Ibad Ahmed Khan**  
 
----
-
 **🎓 Computer Science Student**  
 📍 **FAST University** | Class of '25  
 
 
- 
 
----
 
 ## 💫 About Me:  
 - 🔭 I’m currently working on **Web Development (MERN)** and **App Development (React Native)**.  
