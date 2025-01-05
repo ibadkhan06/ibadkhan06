@@ -1,6 +1,7 @@
-# Hey Everyone 👋  
-# Myself, Ibad Ahmed Khan  
-## Software Development | FAST '25  
+# 👋 Hey Everyone!  
+## I'm **Ibad Ahmed Khan**  
+### 🚀 Aspiring Software Developer | FAST '25  
+ 
 
 ---
 
