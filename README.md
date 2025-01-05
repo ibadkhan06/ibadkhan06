@@ -1,6 +1,8 @@
 # 👋 Hey Everyone!  
 ## I'm **Ibad Ahmed Khan**  
-### 🚀 Aspiring Software Developer | FAST '25  
+**🎓 Computer Science Student**  
+📍 **FAST University** | Class of '25  
+
  
 
 ---
