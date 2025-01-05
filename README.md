@@ -1,40 +1,25 @@
 # Hey Everyone 👋  
-
-## Web/App Development | FAST '24  
+# Myself, Ibad Ahmed Khan  
+## Software Development | FAST '25  
 
 ---
 
 ## 💫 About Me:  
-- 🔭 I’m currently working on **Web Security**, **WebRTC**, and **Server-side Development**.  
-- 🌱 I’m currently learning **Computer Vision**, **Deep Learning**, and the **MERN Stack**.  
-- 👯 I’m looking to collaborate on projects related to **App/Web Development**, **Data Science**, and **Machine Learning**.  
-- 💬 Ask me about **Competitive Programming**, **Databases**, and **Speed Programming**.  
+- 🔭 I’m currently working on **Web Development (MERN)** and **App Development (React Native)**.  
+- 🌱 I’m currently learning **Computer Vision** and **Deep Learning**.  
+- 👯 I’m looking to collaborate on projects related to **App/Web Development**.  
 - 📫 How to reach me: [iahmedkhan06@gmail.com](mailto:iahmedkhan06@gmail.com)  
 - 📄 Know about my experiences: [My Resume](#) (Attach your resume link here).  
-- ⚡ Fun fact: I like to explore, learn, and play cricket and video games.  
-
----
-
-## 🌐 Socials:  
-[Facebook](#) | [Instagram](#) | [LinkedIn](https://linkedin.com/in/ibad-khan) | [Stack Overflow](#) | [Twitter](#) | [YouTube](#)  
-
----
-
-## ✍🏻 Blogs and Articles:  
-- Boolean Retrieval Model  
-- How to Set Up GitHub on macOS?  
-- PWC  
+- 🌐 Connect with me: [LinkedIn](https://linkedin.com/in/ibad-khan)  
 
 ---
 
 ## 💻 Tech Stack:  
-- **Languages**: JavaScript, Python, C/C++, Shell Script  
-- **Frontend**: HTML5, CSS3, Bootstrap, React  
-- **Backend**: Node.js, Express.js, NPM  
-- **Databases**: MongoDB, MySQL  
-- **Tools**: Git, VS Code, Postman  
-- **Others**: NumPy, Pandas, Adobe Photoshop, Adobe Premiere Pro  
+- **Languages**: JavaScript, Python, C/C++, HTML/CSS  
+- **Frameworks**: React, Express.js, React Native, Tailwind CSS, Bootstrap  
+- **Databases**: MongoDB, SQL (Postgres), Firebase  
+- **Developer Tools**: Git, VS Code, Postman 
 
 ---
 
-Feel free to connect with me or collaborate on exciting projects!  
+Feel free to connect with me or collaborate on exciting projects! 🚀  
