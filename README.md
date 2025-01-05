@@ -3,10 +3,8 @@
 
 ---
 
-<p align="center">
-  **🎓 Computer Science Student**  
-  📍 **FAST University** | Class of '25  
-</p>
+**🎓 Computer Science Student**  
+📍 **FAST University** | Class of '25  
 
 
  
