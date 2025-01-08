@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Computer Vision** and **Deep Learning**.  
 - 👯 I’m looking to collaborate on projects related to **App/Web Development**.  
 - 📫 How to reach me: [iahmedkhan06@gmail.com](mailto:iahmedkhan06@gmail.com)  
-- 📄 Know about my experiences: [My Resume](#) (Attach your resume link here).  
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1rGroC9xpBAzhQZcDBtVDQAz7ujYs1Fvs/view?usp=drive_link).  
 - 🌐 Connect with me on [LinkedIn](https://linkedin.com/in/ibad-khan-51442993)    
 
 ---
